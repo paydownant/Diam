@@ -1,1 +1,1 @@
-Line Bot Base Implementation for Aurora LLM Line Bot
+Line Bot Basic Implementation for Aurora LLM Line Bot
